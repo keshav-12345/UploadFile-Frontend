@@ -272,7 +272,7 @@ export default function Home() {
               {userFiles &&
                 userFiles.map((item) => (
                   <TableBody key={item._id}>
-                    <TableCell className="font-semibold text-base overflow-scroll ">
+                    <TableCell className="font-semibold text-base ">
                       {item.originalFileName}
                     </TableCell>
                     <TableCell className="break-words">

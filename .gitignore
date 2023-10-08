@@ -79,9 +79,7 @@ yarn.lock
 pnpm-lock.yaml
 .shrinkwrap.yaml
 
-# Tailwind CSS
-.tailwind/
-postcss.config.js
+
 
 # TypeScript
 *.tsbuildinfo

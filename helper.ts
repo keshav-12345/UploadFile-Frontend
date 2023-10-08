@@ -1,1 +1,1 @@
-export const backend_url = 'https://uploadfile-pfzr.onrender.com';
+export const backend_url = 'https://uploadshort.onrender.com';
